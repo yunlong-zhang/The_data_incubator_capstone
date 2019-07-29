@@ -2,8 +2,9 @@
 This is my project for the semifinal challenge of The Data Incubator application.
 
 Project Organization
-├── README.md          <- The top-level README for developers using this project.\n
-├── data\n
+--------------------
+├── README.md          <- The top-level README for developers using this project.
+├── data
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
@@ -13,3 +14,5 @@ Project Organization
 │   └── figures        <- Generated graphics and figures to be used in reporting
 ├── docs (empty)       <- Related documents. Not data or coding.
 └── references (empty) <- Data dictionaries, manuals, papers, and all other explanatory materials.
+
+-------------------
