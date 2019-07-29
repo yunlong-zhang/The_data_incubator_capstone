@@ -2,7 +2,7 @@
 This is my project for the semifinal challenge of The Data Incubator (TDI) application.
 
 # Data Source.
-Three datasets were used. temp_datalab_records_linkedin_company.csv (957 MB) was originally produced by LinkedIn and distributed by TDI email/blog. temp_datalab_records_social_facebook.csv (452 MB) was originally produced by Facebook and distributed by TDI email/blog. temp_datalab_records_job_listings.csv (only part 1, 25.16G) was originally produced by NYSE and distributed by TDI blog (https://blog.thedataincubator.com/tag/data-sources/).  All datasets are publically accessible.
+Three datasets were used. temp_datalab_records_linkedin_company.csv (957 MB) was originally produced by LinkedIn and distributed by TDI email/blog. temp_datalab_records_social_facebook.csv (452 MB) was originally produced by Facebook and distributed by TDI email/blog. temp_datalab_records_job_listings.csv (only part 1, 25.16G) was originally produced by NYSE and distributed by TDI blog (https://blog.thedataincubator.com/tag/data-sources/).  All datasets are publicly accessible.
 
 # Notebooks.
 I choose those three datasets to build up an early-stage clean-up, processing and visualization notebooks. The notebooks here can be developed for larger dataset and more elaborate projects. For example, more NYSE data can correlate more companies to my visualization tool to render insightful thinking of the relationship between companies and their social media activities. The notebook can also be developed to a machine learning platform if enough data can be provided.
