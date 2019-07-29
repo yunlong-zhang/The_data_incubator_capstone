@@ -13,7 +13,7 @@ Two notebooks in the repositories: NYSE_execute.ipynb to process the large NYSE 
 Based on my experience of job seeking, the social media activity of companies is important, not only for us to find the job openings, but also for the companies to show their robustness and vitality of a company.
 The TDI blog provides a lot of useful datasets.  Among them, I selected three datasets, including a big one (~ 26G).  I would like to process and visualize the data to answer the following questions:  
 (1) Is a company's Facebook activity is correlated to its LinkedIn activity? because as we all known, LinkedIn is more like a professional platform the companies to commute with consumers but Facebook is more casual.
-(2) Is higher social media acitivity means higher recruiting willingness?  NYSE dataset provides the job counts of some companies. Note I didn't use the whole hundreds GB of data from NYSE. This notebook provides the platform to process the large data so other parts of NYSE data can be imported in the future.
+(2) Is higher social media activity means higher recruiting willingness?  NYSE dataset provides the job counts of some companies. Note I didn't use the whole hundreds GB of data from NYSE. This notebook provides the platform to process the large data so other parts of NYSE data can be imported in the future.
 (3) Is a successful company has more social media activity than less-successful company?
 (4) Are LinkedIn followers, Facebook likes and Facebook talking-about correlated?
 (5) Are those features related to a companies's revenuw? (This could be a machine learning project. Not in this notebook but highly possible in the future.)
